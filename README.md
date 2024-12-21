@@ -5,6 +5,7 @@ TokenX is a Cryptocurrency Token Exchange platform that allows peer-to-peer secu
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/1f7d5c09-0319-4f03-8563-8ca350ea83fe" />
 
 ## Test Run on Local Host
+```
 cd ./client
-
 npm run dev
+```
